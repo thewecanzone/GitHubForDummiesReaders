@@ -5,4 +5,4 @@
 # the repo. Unless a later match takes precedence,
 # @thewecanzone/github-for-dummies will be requested for
 # review when someone opens a pull request.
-*       @thewecanzone/github-for-dummies
+*       @thewecanzone/github-for-dummies @sguthals
