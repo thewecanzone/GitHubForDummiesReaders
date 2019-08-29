@@ -7,3 +7,4 @@ GitHub Handle | Fun Fact
 @haacked      | I love formatting markdown.
 @hedyhyry     | I love light themes.
 @faalbers     | I'm into drones.
+@kochub       | I love reading books
