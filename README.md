@@ -12,3 +12,4 @@ GitHub Handle | Fun Fact
 @ralamo       | I like making pie.
 @ogriff17     | This is me making changes to the ReadMe file.
 @nikkif24 |I figured it out?!?
+@jtaylaj      | I'm watching my personal Twilight Zone Marathon
