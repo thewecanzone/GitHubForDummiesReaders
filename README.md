@@ -14,3 +14,4 @@ GitHub Handle | Fun Fact
 @nikkif24 | It worked!
 @nikkif24 |I figured it out?!?
 @jtaylaj      | I'm watching my personal Twilight Zone Marathon
+@alinvlad05 | I love For Dummies Books
