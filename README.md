@@ -15,3 +15,4 @@ GitHub Handle | Fun Fact
 @nikkif24 |I figured it out?!?
 @jtaylaj      | I'm watching my personal Twilight Zone Marathon
 @shantimohan | Just getting into drones
+@alinvlad05 | I love For Dummies Books
