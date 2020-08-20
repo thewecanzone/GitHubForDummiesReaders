@@ -11,6 +11,7 @@ GitHub Handle | Fun Fact
 @AndrewParkerTechnicalTester | The table formatting still works regardless of the alignment of the raw text
 @ralamo       | I like making pie.
 @ogriff17     | This is me making changes to the ReadMe file.
+@nikkif24 | I am excited to be learning this software. 
 @nikkif24 | It worked!
 @nikkif24 |I figured it out?!?
 @jtaylaj      | I'm watching my personal Twilight Zone Marathon
