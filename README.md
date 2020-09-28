@@ -17,3 +17,4 @@ GitHub Handle | Fun Fact
 @jtaylaj      | I'm watching my personal Twilight Zone Marathon
 @shantimohan | Just getting into drones
 @alinvlad05 | I love For Dummies Books
+I changed readme [myioannis]
