@@ -20,3 +20,4 @@ GitHub Handle | Fun Fact
 @david-clapper | I'm into lucid dreaming
 @markalbrand56 | I love racing games
 @riddler | Just testing
+@sLiolaitis | I am able to 1 kilogram of meat at once
