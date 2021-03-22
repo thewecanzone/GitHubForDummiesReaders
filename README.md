@@ -22,3 +22,4 @@ GitHub Handle | Fun Fact
 @riddler | Just testing
 @sLiolaitis | I am able to eat 1 kilogram of meat at once
 @Shepherd921 | I am into table top games.
+@ali | I'm just adding myself
