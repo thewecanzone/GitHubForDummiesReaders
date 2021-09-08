@@ -26,4 +26,4 @@ GitHub Handle | Fun Fact
 @ali | I'm just adding myself
 @phoye-developer | This is a test.
 @SimenXiaoSiu | It is a test.Updated again.
-@kloidulent | Alligators only exist in China and the USA
+@kloidulent | Alligators are native to the USA and China only.
