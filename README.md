@@ -14,7 +14,7 @@ This is a repository where all GitHub For Dummies readers can add a link to thei
 | @nikkif24                    | I am excited to be learning this software.                                   |
 | @nikkif24                    | It worked!                                                                   |
 | @nikkif24                    | I figured it out?!?                                                          |
-| @jtaylaj                     | I'm watching my personal Twilight Zone Marathon                              |
+| @jtaylaj                     | I'm watching my personal Twilight Zone Marathon                            Im there for test and try to use git hub
 | @shantimohan                 | Just getting into drones                                                     |
 | @alinvlad05                  | I love For Dummies Books                                                     |
 | @david-clapper               | I'm into lucid dreaming                                                      |
