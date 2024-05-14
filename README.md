@@ -36,3 +36,4 @@ This is a repository where all GitHub For Dummies readers can add a link to thei
 | @kcollinsfx                  | This is cool. Never thought I would be learning how to use Github!!!         |
 | @jimbo                       | Das ist cool, Github                                                         |
 | @NikitaKarthikeyan           | I like github                                                                |
+| @Mrake5                      | Another test                                                                 |
