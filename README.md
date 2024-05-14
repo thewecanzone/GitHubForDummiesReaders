@@ -35,5 +35,6 @@ This is a repository where all GitHub For Dummies readers can add a link to thei
 | @LionetChen                  | I borrowed this book from Parramatta Library, NSW Australia! (Update origin) |
 | @kcollinsfx                  | This is cool. Never thought I would be learning how to use Github!!!         |
 | @jimbo                       | Das ist cool, Github                                                         |
+| @mayafl2020.                 | I'm starting my new journey as an Automation Testing Engineer! :smile:
 | @NikitaKarthikeyan           | I like github                                                                |
 | @Mrake5                      | Another test                                                                 |
