@@ -44,3 +44,4 @@ This is a repository where all GitHub For Dummies readers can add a link to thei
 | @Mrake5                      | Another test                                                                 |
 | @zhishuaizhang               | add me, add me                                                               |
 | @ElliotJKing                 | My favorite board game is Monopoly.                                          |
+| @scitics-io                  | I'm just testing
