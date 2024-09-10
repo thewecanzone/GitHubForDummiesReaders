@@ -37,6 +37,7 @@ Table
 | @LionetChen                  | I borrowed this book from Parramatta Library, NSW Australia! (Update origin) |
 | @kcollinsfx                  | This is cool. Never thought I would be learning how to use Github!!!         |
 | @jimbo                       | Das ist cool, Github                                                         |
+| @lextor99                    | I speak Ukrainian, Russian, English, French and Japanese                     |
 | @Menotomy                    | Hello from Virginia USA!                                                     |
 | @istvanpetro                 | I'm not sure, what I'm doing now... :D                                       |
 | @jimbo                       | Das ist cool, GitHub                                                         |
