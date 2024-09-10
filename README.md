@@ -3,9 +3,11 @@ This is a repository where all GitHub For Dummies readers can add a link to thei
 
 | GitHub Handle                | Fun Fact                                                                     |
 |------------------------------|------------------------------------------------------------------------------|
+| @feriv7                      | I drink 5 to 10 cups of coffee daily                                         |
 | @sguthals                    | I have a dog and two cats!                                                   |
 | @haacked                     | I love formatting markdown.                                                  |
 | @hedyhyry                    | I love light themes.                                                         |
+| @KalenKnox                   | I crochet while listening to heavy metal.                                    |
 | @faalbers                    | I'm into drones.                                                             |
 | @kochub                      | I love reading books                                                         |
 | @AndrewParkerTechnicalTester | The table formatting still works regardless of the alignment of the raw text |
@@ -35,8 +37,8 @@ This is a repository where all GitHub For Dummies readers can add a link to thei
 | @LionetChen                  | I borrowed this book from Parramatta Library, NSW Australia! (Update origin) |
 | @kcollinsfx                  | This is cool. Never thought I would be learning how to use Github!!!         |
 | @jimbo                       | Das ist cool, Github                                                         |
+| @swmwy                       | Check out my project! https://github.com/swmwy/MiniCalc                      |                        
 | @MiguelMolina16              | I like github so much :)                                                     |
-| @swmwy                       | Follow me!                                                                   |
 | @4043094                     | I hope this works!                                                           |    
 | @CollierD558                 | Just testing                                                                 |
 | @mayafl2020.                 | I'm starting my new journey as an Automation Testing Engineer! :smile:       |
@@ -45,3 +47,4 @@ This is a repository where all GitHub For Dummies readers can add a link to thei
 | @zhishuaizhang               | add me, add me                                                               |
 | @ElliotJKing                 | My favorite board game is Monopoly.                                          |
 | @scitics-io                  | I'm just testing
+| @fsansegundo                 | I have seen the Ibisbill                                        |
