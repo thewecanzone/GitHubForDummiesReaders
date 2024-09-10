@@ -1,6 +1,6 @@
 # GitHub For Dummies Readers
 This is a repository where all GitHub For Dummies readers can add a link to their GitHub profile!
-
+Table
 | GitHub Handle                | Fun Fact                                                                     |
 |------------------------------|------------------------------------------------------------------------------|
 | @feriv7                      | I drink 5 to 10 cups of coffee daily                                         |
