@@ -36,7 +36,8 @@ Table
 | @tcpint21                    | I'm nice sexy tiger                                                          |
 | @LionetChen                  | I borrowed this book from Parramatta Library, NSW Australia! (Update origin) |
 | @kcollinsfx                  | This is cool. Never thought I would be learning how to use Github!!!         |
-| @jimbo                       | Das ist cool, Github                                                         |
+| @jimbo                       | Das ist cool, GitHub                                                         |
+| @dfulmer                     | Adding myself.                                                               |
 | @swmwy                       | Check out my project! https://github.com/swmwy/MiniCalc                      |                        
 | @MiguelMolina16              | I like github so much :)                                                     |
 | @4043094                     | I hope this works!                                                           |    
