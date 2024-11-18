@@ -53,3 +53,4 @@ Table
 | @ElliotJKing                 | My favorite board game is Monopoly.                                          |
 | @scitics-io                  | I'm just testing
 | @fsansegundo                 | I have seen the Ibisbill                                        |
+@SuvenduIndra                   | Testing git |
