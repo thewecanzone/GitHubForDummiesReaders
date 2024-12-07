@@ -54,3 +54,4 @@ Table
 | @scitics-io                  | I'm just testing
 | @fsansegundo                 | I have seen the Ibisbill                                        |
 | @chensmgt                    | Nice to try to contribute here.
+| @chensmgt                    | Figure out a new way to contribute.
