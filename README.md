@@ -55,3 +55,5 @@ Table
 | @fsansegundo                 | I have seen the Ibisbill                                        |
 | @chensmgt                    | Nice to try to contribute here. |
 | @chensmgt                    | Figure out a new way to contribute. |
+| @SuvenduIndra                   | Testing git for fun |
+| @mckrob                      | Test run!                                                                    |
