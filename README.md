@@ -51,7 +51,9 @@ Table
 | @Mrake5                      | Another test                                                                 |
 | @zhishuaizhang               | add me, add me                                                               |
 | @ElliotJKing                 | My favorite board game is Monopoly.                                          |
-| @scitics-io                  | I'm just testing                                      |
+| @scitics-io                  | I'm just testing
+| @fsansegundo                 | I have seen the Ibisbill                                        |
+| @chensmgt                    | Nice to try to contribute here. |
+| @chensmgt                    | Figure out a new way to contribute. |
 | @SuvenduIndra                   | Testing git for fun |
-| @fsansegundo                 | I have seen the Ibisbill                                                     |
 | @mckrob                      | Test run!                                                                    |
