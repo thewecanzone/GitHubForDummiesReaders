@@ -51,9 +51,10 @@ Table
 | @Mrake5                      | Another test                                                                 |
 | @zhishuaizhang               | add me, add me                                                               |
 | @ElliotJKing                 | My favorite board game is Monopoly.                                          |
-| @scitics-io                  | I'm just testing
-| @fsansegundo                 | I have seen the Ibisbill                                        |
-| @chensmgt                    | Nice to try to contribute here. |
-| @chensmgt                    | Figure out a new way to contribute. |
-| @SuvenduIndra                   | Testing git for fun |
+| @scitics-io                  | I'm just testing                                                             |
+| @fsansegundo                 | I have seen the Ibisbill                                                     |
+| @chensmgt                    | Nice to try to contribute here.                                              |      
+| @chensmgt                    | Figure out a new way to contribute.                                          |
+| @SuvenduIndra                | Testing git for fun                                                          |
 | @mckrob                      | Test run!                                                                    |
+| @SB1501                      | I'm learning GitHub and actually getting results for once from this book!    |
