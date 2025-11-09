@@ -57,3 +57,4 @@ Table
 | @chensmgt                    | Figure out a new way to contribute. |
 | @SuvenduIndra                   | Testing git for fun |
 | @mckrob                      | Test run!                                                                    |
+| @o3m2a1r                     | Math is my favorite subject                                                  |
