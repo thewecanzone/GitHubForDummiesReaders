@@ -1,8 +1,10 @@
 # GitHub For Dummies Readers
-This is a repository where all GitHub For Dummies readers can add a link to their GitHub profile!
+This is a repository where all GitHub For Dummies readers can add a link to their GitHub profile!!!
 Table
 | GitHub Handle                | Fun Fact                                                                     |
 |------------------------------|------------------------------------------------------------------------------|
+| @atanas60                    | Thinking!  |
+| @thejug                      | I love updating my skills | 
 | @feriv7                      | I drink 5 to 10 cups of coffee daily                                         |
 | @sguthals                    | I have a dog and two cats!                                                   |
 | @haacked                     | I love formatting markdown.                                                  |
@@ -51,10 +53,12 @@ Table
 | @Mrake5                      | Another test                                                                 |
 | @zhishuaizhang               | add me, add me                                                               |
 | @ElliotJKing                 | My favorite board game is Monopoly.                                          |
-| @scitics-io                  | I'm just testing
-| @fsansegundo                 | I have seen the Ibisbill                                        |
-| @chensmgt                    | Nice to try to contribute here. |
-| @chensmgt                    | Figure out a new way to contribute. |
-| @SuvenduIndra                   | Testing git for fun |
+| @scitics-io                  | I'm just testing                                                             |
+| @fsansegundo                 | I have seen the Ibisbill                                                     |
+| @chensmgt                    | Nice to try to contribute here.                                              |      
+| @chensmgt                    | Figure out a new way to contribute.                                          |
+| @SuvenduIndra                | Testing git for fun                                                          |
 | @mckrob                      | Test run!                                                                    |
 | @o3m2a1r                     | Math is my favorite subject                                                  |
+| @SB1501                      | I'm learning GitHub and actually getting results for once from this book!    |
+| @ruairiodonohoe              | Yet another Test!                                                            |
