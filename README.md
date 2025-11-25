@@ -59,3 +59,4 @@ Table
 | @chensmgt                    | Figure out a new way to contribute. |
 | @SuvenduIndra                   | Testing git for fun |
 | @mckrob                      | Test run!                                                                    |
+| @ruairiodonohoe              | Yet another Test!                                                            |
