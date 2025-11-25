@@ -1,9 +1,10 @@
 # GitHub For Dummies Readers
-This is a repository where all GitHub For Dummies readers can add a link to their GitHub profile!
+This is a repository where all GitHub For Dummies readers can add a link to their GitHub profile!!!
 Table
 | GitHub Handle                | Fun Fact                                                                     |
 |------------------------------|------------------------------------------------------------------------------|
 | @atanas60                    | Thinking!
+| @thejug                      | I love updating my skills | 
 | @feriv7                      | I drink 5 to 10 cups of coffee daily                                         |
 | @sguthals                    | I have a dog and two cats!                                                   |
 | @haacked                     | I love formatting markdown.                                                  |
