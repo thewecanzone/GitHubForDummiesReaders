@@ -62,3 +62,4 @@ Table
 | @o3m2a1r                     | Math is my favorite subject                                                  |
 | @SB1501                      | I'm learning GitHub and actually getting results for once from this book!    |
 | @ruairiodonohoe              | Yet another Test!                                                            |
+Delete this line (ln 65)
