@@ -62,4 +62,4 @@ Table
 | @o3m2a1r                     | Math is my favorite subject                                                  |
 | @SB1501                      | I'm learning GitHub and actually getting results for once from this book!    |
 | @ruairiodonohoe              | Yet another Test!                                                            |
-| @John-8-12                   | I enjoy spending a good portion of my breaks from school learning to program |
+| @John-8-12                   | I'm learning about computers and programming this Christmas |
