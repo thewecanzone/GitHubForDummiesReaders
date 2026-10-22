@@ -64,5 +64,6 @@ Table
 | @SB1501                      | I'm learning GitHub and actually getting results for once from this book!    |
 | @ruairiodonohoe              | Yet another Test!                                                            |
 | @John-8-12                   | I'm learning about computers and programming this Christmas |
+| @VW                          | Great Learning Book - Github for Dummies                                      |
 | @Cyber1Boss                  | I am learning CSS, html, and GitHub. I have multpile IT certs, and am looking for a remote position. |
 | @ShaneHenrikson 	       | I'm advancing my skills to become a Data Scientist			      |	main
