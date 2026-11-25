@@ -67,3 +67,4 @@ Table
 | @VW                          | Great Learning Book - Github for Dummies                                      |
 | @Cyber1Boss                  | I am learning CSS, html, and GitHub. I have multpile IT certs, and am looking for a remote position. |
 | @ShaneHenrikson 	       | I'm advancing my skills to become a Data Scientist			      |	main
+| @eureka618 | 王一贝, student ID: 25303050135. I'm learning about open source. |
